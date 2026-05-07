@@ -10,8 +10,3 @@
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
-
-## How to Run
-1. Clone the repo
-2. Open titanic-eda.ipynb in Jupyter
-3. Run all cells
